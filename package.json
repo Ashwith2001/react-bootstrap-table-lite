@@ -1,6 +1,6 @@
 {
   "name": "react-bootstrap-table-lite",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A lightweight, customizable, react component.",
   "main": "dist/export.js",
   "scripts": {
@@ -10,7 +10,10 @@
     "react-bootstrap",
     "react-bootstrap-table-lite"
   ],
-  "author": "Ashwith Bhatt",
+  "author": {
+    "name": "Ashwith Bhatt",
+    "email": "ashwithbhatt2001@gmail.com"
+  },
   "license": "MIT",
   "dependencies": {
     "react": "^19.1.0",
