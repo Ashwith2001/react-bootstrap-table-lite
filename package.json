@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A lightweight, customizable, react component.",
   "main": "dist/export.js",
+  "types": "types/index.d.ts",
   "scripts": {
     "build": "webpack --mode production"
   },
