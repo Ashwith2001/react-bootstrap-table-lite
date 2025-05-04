@@ -1,6 +1,6 @@
 {
   "name": "react-bootstrap-table-lite",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A lightweight, customizable, react component.",
   "main": "dist/export.js",
   "scripts": {
@@ -15,11 +15,9 @@
     "email": "ashwithbhatt2001@gmail.com"
   },
   "license": "MIT",
-  "dependencies": {
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0"
-  },
   "devDependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
     "@babel/preset-env": "^7.27.1",
     "@babel/preset-react": "^7.27.1",
     "babel-cli": "^6.26.0",
@@ -32,5 +30,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ashwith2001/react-bootstrap-table-lite"
+  },
+  "peerDependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   }
 }

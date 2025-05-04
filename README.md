@@ -62,6 +62,9 @@ const App = () => (
   />
 );
 ```
+---
+### ***Note: react-boostrap-table-lite depends on bootstrap styling, hence make sure bootstrap is installed by default, although you can override internal classes.*** 
+---
 
 ---
 
