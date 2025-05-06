@@ -1,6 +1,6 @@
 {
   "name": "react-bootstrap-table-lite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight, customizable, react component.",
   "main": "dist/export.js",
   "types": "types/index.d.ts",
