@@ -34,13 +34,13 @@ const columns = [
     dataField: "id",
     header: () => "ID",
     sort: true,
-    formatter: (cell, row) => () => <span>{cell}</span>,
+    cell: (cell, row) => () => <span>{cell}</span>,
   },
   {
     dataField: "name",
     header: () => "Name",
     sort: true,
-    formatter: (cell) => () => <strong>{cell}</strong>,
+    cell: (cell) => () => <strong>{cell}</strong>,
   },
 ];
 
